@@ -1,0 +1,3 @@
+git add pipe.pkl
+git commit -m "Add trained model"
+git push origin main
